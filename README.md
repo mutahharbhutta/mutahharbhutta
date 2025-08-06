@@ -59,21 +59,23 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 
 ---
 
-<!-- SNAKE GAME CONTRIBUTIONS -->
+<!-- SNAKE GAME CONTRIBUTIONS
 ## 🐍 Contribution Snake Game:
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
+ -->
 ---
 
 <!-- 🐍 CONTRIBUTION SNAKE GAME (MutahharBhutta) -->
-## 🐍 Contribution Snake Game Mutahhar:
-<p align="center">
-  ![snake gif](https://github.com/mutahharbhutta/mutahharbhutta/blob/output/github-snake-dark.svg)
+## 🐍 Mutahhar's Contribution Snake Game:
 
-</p>
+  ![snake gif](https://github.com/mutahharbhutta/mutahharbhutta/blob/output/github-snake.svg)
+  
 ---
+<p align="center"> 
+<img src="https://github.com/mutahharbhutta/mutahharbhutta/blob/output/github-snake.svg" alt="snake gif" />
+</p>
 
 <!-- SOCIAL LINKS -->
 ## 🌐 Let's Connect:
