@@ -65,7 +65,6 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
  -->
----
 
 <!-- 🐍 CONTRIBUTION SNAKE GAME (MutahharBhutta) -->
 ## 🐍 Mutahhar's Contribution Snake Game:
