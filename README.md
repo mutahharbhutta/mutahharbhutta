@@ -70,12 +70,12 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 <!-- 🐍 CONTRIBUTION SNAKE GAME (MutahharBhutta) -->
 ## 🐍 Mutahhar's Contribution Snake Game:
 
-  ![snake gif](https://github.com/mutahharbhutta/mutahharbhutta/blob/output/github-snake.svg)
-  
----
 <p align="center"> 
 <img src="https://github.com/mutahharbhutta/mutahharbhutta/blob/output/github-snake.svg" alt="snake gif" />
 </p>
+  
+---
+
 
 <!-- SOCIAL LINKS -->
 ## 🌐 Let's Connect:
