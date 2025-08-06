@@ -22,10 +22,10 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 ---
 
 ## About Me:
-- 🎓 BS Data Science Student @ Punjab University  
+- 🎓 BS Data Science Student @ PUCIT - FCIT
 - 🎖️ PUAN Member & U.S. Access Program Alumnus  
 - 📊 Passionate about Data Visualization & Analytics  
-- 🎨 Canva & Power BI enthusiast  
+- 🎨 Data Science enthusiast  
 - 🧠 Always learning something new in tech  
 
 ---
